@@ -1,0 +1,7 @@
+{
+    "title": "Sign in | NextJS and Typescript Boilerplate",
+    "description": "",
+    "buttons": {
+        "sign_in_with": "Sign in with {{provider}}"
+    }
+}

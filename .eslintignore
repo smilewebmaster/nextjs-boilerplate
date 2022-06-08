@@ -1,0 +1,9 @@
+node_modules
+out
+next.config.js
+i18n.js
+lint-staged.config.js
+postcss.config.js
+.eslintrc.js
+tailwind.config.js
+cypress

@@ -1,0 +1,11 @@
+#
+# Netlify
+#
+
+[build]
+    publish = "out"
+    command = "npm run build:prod"
+
+#
+# END
+#

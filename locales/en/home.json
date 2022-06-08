@@ -1,0 +1,10 @@
+{
+    "title": "NextJS and Typescript Boilerplate",
+    "description": "",
+    "auth": {
+        "signed_in_as": "Signed in as {{name}}",
+        "not_signed_in": "Not signed in",
+        "sign_in_button": "Sign In",
+        "sign_out_button": "Sign Out"
+    }
+}
